@@ -1,0 +1,17 @@
+streamlit==1.36.0
+ipython==8.25.0
+llama-index==0.10.45
+openai==1.34.0
+huggingface-hub==0.23.4
+torch==2.3.1
+transformers==4.41.2
+pandas==2.2.2
+numpy==2.0.0
+scikit-learn==1.5.0
+pathlib==1.0.1
+llama_index-llms-groq
+llama_index-embeddings-huggingface
+elsapy
+llama-index-embeddings-huggingface-api
+llama-index-llms-huggingface-api
+python-dotenv
