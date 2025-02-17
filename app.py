@@ -99,7 +99,7 @@ def load_llm():
     temperature=0.3,
     max_tokens=512,
     num_output=512,
-    token="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",  # Optional API token
+    token="hf_###########",  # Optional API token
     timeout=240,  # Set timeout to 60 seconds
     context_window=16000 # Optional context window size
 )
